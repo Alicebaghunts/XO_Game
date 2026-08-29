@@ -12,6 +12,9 @@
 ![GUI](https://img.shields.io/badge/GUI-Cocoa%20%2B%20AppKit-4A90E2?style=for-the-badge)
 ![License](https://img.shields.io/badge/license-MIT-22C55E?style=for-the-badge)
 
+
+<img width="1280" height="1390" alt="XO_game" src="https://github.com/user-attachments/assets/3c9bfa32-66bf-4571-8867-9be2bc10de2f" />
+
 <br/>
 
 ```
@@ -177,20 +180,4 @@ xoo/
 | `make fclean` | Remove object files + executable |
 
 ---
-
-## 🎬 Add a Demo GIF (optional)
-
-GitHub READMEs look great with a short screen recording:
-
-1. Open the game: `open ./xo`
-2. Record with **QuickTime** → File → New Screen Recording
-3. Save as `docs/demo.gif` (convert with [ezgif.com](https://ezgif.com/video-to-gif) if needed)
-4. Uncomment the GIF line at the top of this README:
-
-```markdown
-<img src="<img width="1280" height="1390" alt="XO_game" src="https://github.com/user-attachments/assets/cbfd8e9c-5a19-4ce6-a08b-18edc7cf74b4" />
-" width="720" alt="X/O gameplay demo"/>
-```
-
---
 </div>
