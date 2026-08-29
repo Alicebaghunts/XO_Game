@@ -191,26 +191,5 @@ GitHub READMEs look great with a short screen recording:
 <img src="docs/demo.gif" width="720" alt="X/O gameplay demo"/>
 ```
 
----
-
-## 🌟 Highlights for your portfolio
-
-- Native **macOS GUI** without external libraries (no SFML/SDL)
-- Clean **MVC-style** separation: engine, history, UI views
-- Polished UX: hover previews, placement easing, win-line pulse, overlay fade-in
-- Smart **bot** using minimax
-- **Score history** ring buffer (max 10 games)
-
----
-
-<div align="center">
-
-<br/>
-
-**Made with ☕ and C++**
-
-⭐ Star this repo if you like it!
-
-<br/>
-
+--
 </div>
