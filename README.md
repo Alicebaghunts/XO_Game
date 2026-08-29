@@ -34,6 +34,8 @@
 
 <br/>
 
+<img width="720" height="850" alt="XO_game" src="https://github.com/user-attachments/assets/3c9bfa32-66bf-4571-8867-9be2bc10de2f" />
+
 <!-- Replace with your own GIF: record the app and save as docs/demo.gif -->
 <!-- <img src="docs/demo.gif" width="720" alt="X/O gameplay demo"/> -->
 
@@ -59,7 +61,6 @@
 </td>
 <td width="50%">
 
-<img width="720" height="850" alt="XO_game" src="https://github.com/user-attachments/assets/3c9bfa32-66bf-4571-8867-9be2bc10de2f" />
 
 ### 🎨 Look & Feel
 - **Dark blue-black** gradient background
