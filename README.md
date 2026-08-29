@@ -59,7 +59,7 @@
 </td>
 <td width="50%">
 
-<img width="1280" height="1390" alt="XO_game" src="https://github.com/user-attachments/assets/3c9bfa32-66bf-4571-8867-9be2bc10de2f" />
+<img width="720" height="1390" alt="XO_game" src="https://github.com/user-attachments/assets/3c9bfa32-66bf-4571-8867-9be2bc10de2f" />
 
 ### 🎨 Look & Feel
 - **Dark blue-black** gradient background
