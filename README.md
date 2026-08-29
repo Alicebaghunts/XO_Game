@@ -188,7 +188,8 @@ GitHub READMEs look great with a short screen recording:
 4. Uncomment the GIF line at the top of this README:
 
 ```markdown
-<img src="docs/demo.gif" width="720" alt="X/O gameplay demo"/>
+<img src="<img width="1280" height="1390" alt="XO_game" src="https://github.com/user-attachments/assets/cbfd8e9c-5a19-4ce6-a08b-18edc7cf74b4" />
+" width="720" alt="X/O gameplay demo"/>
 ```
 
 --
